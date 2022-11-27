@@ -1,3 +1,14 @@
 # Cybersun
 
-WIP
+Flavor title: WIP
+
+Cybersun are known for their focus on research and development, whether the tech may be in-house manufactured or stolen technology from rivaling companies. If the idea has been thought of, it has already been stolen by Cybersun- and Cybersun's lawyers are always ready to prove that they were the original authors.
+
+Cybersun's production specializes in high-tech weaponry, stealth devices, robotic implants, and artificial intelligence. Many foundational technologies for agents can be attributed to their work, such as agent IDs, chameleon kits, and the uplink technology itself. While many companies use some parts of Cybersun technology to their advantage, a majority of Cybersun tech is locked behind patent after patent, as well as hefty purchasing fee if a company is unable to secure a patent. However, Cybersun’s own operatives don’t need to worry about the cost, unless they distribute their employer's creations, that is..
+
+Cybersun's relations with other companies is wholly neutral. Cybersun keeps itself isolated from other entities; only meddling with others affairs internally through operations. However, the rivalry between Cybersun and Gorlex runs deep: if you scrape the paint off a few Gorlex mechs, or look deep into the software that powers Gorlex equipment, you'll find traces of Cybersun logos and design. Turns out, the one thing that can keep Cybersun lawyers at bay is the threat of nuclear destruction. A significant portion of operations carried out by Cybersun are an attempt to sabotage Gorlex from the inside.
+
+Nanotrasen sees Cybersun as less of an economic competitor and more of a nuisance to their research efforts. While Cybersun is always one step ahead of Nanotrasen's technological developments, they lack the resources or manpower to fully exploit it or put it to practical use. At times, Nanotrasen will deliberately begin research into things that are impractical just for Cybersun to embarass themselves with (See: bananium toilet rolls, which Cybersun so mysteriously began manufacturing months after the initial development by Nanotrasen). Despite being smarter than the rest (and having more money as well), sometimes Cybersun’s efforts fall flat due to NanoTrasen’s deliberate efforts to throw off Cybersun, as seen with the bananium toilet rolls incident of 25XX.
+
+Cybersun operations are focused mainly upon stealing technology, however, Cybersun lawyers will occasionally request that agents carry out the assassinations of witnesses or framing someone for crimes. For this, they require agents to remain inconspicuous, and as such, many pose as janitors, lawyers, and station engineers tasked with "maintenance". Agents are requested not to draw heat, but that they must also leave no credible witnesses to their operations.
+
