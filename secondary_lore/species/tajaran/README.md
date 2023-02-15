@@ -42,4 +42,4 @@ Tajaran’s are also capable combatants, both close and ranged. Being armed with
 
 ## Language
 
-Tajaran's speak Tajaranese, a uncreative name bestowed to the Tajarans. Those unfamiliar with the language equate it to "cat meows" and "a whole lot of psp psp psp". Others have commented on how oddly romantic it sounds, maybe all those "cat got your tongue" phrases was referring to this. Tajaranese is still a hard langauge to understand and learn, but miles easier than Galactic Common.
+Tajaran's speak Tajara, a uncreative name bestowed to the Tajarans. Those unfamiliar with the language equate it to "cat meows" and "a whole lot of psp psp psp". Others have commented on how oddly romantic it sounds, maybe all those "cat got your tongue" phrases was referring to this. Tajara is still a hard langauge to understand and learn, but miles easier than Galactic Common.
