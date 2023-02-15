@@ -39,3 +39,7 @@ The democratic side, however, is in control of society. They’re responsible fo
 The individual Tajaran enjoys a platter of farmed and wild game. They’re also capable of eating fruits and vegetables, but will always prefer game. Tajaran’s have a thick inner and outer coat of fur, capable of trapping heat and keeping them warm during the coldest of Snefald. Due to Sol not getting any hotter than freezing, Tajaran’s enjoy the pleasantly “warm” weather. Due to their thick fur, Tajaran’s are incapable of regulating their body temperatures in much hotter climates. Due to the typically darker days on Kalt during Snefald, Tajaran’s have superior eyes, heightened visibility in low-light environments.
 
 Tajaran’s are also capable combatants, both close and ranged. Being armed with claws, Tajaran’s are capable of tearing flesh from one another, and due to their heightened sight, they’re excellent marksmen as well.
+
+## Language
+
+Tajaran's speak Tajaranese, a uncreative name bestowed to the Tajarans. Those unfamiliar with the language equate it to "cat meows" and "a whole lot of psp psp psp". Others have commented on how oddly romantic it sounds, maybe all those "cat got your tongue" phrases was referring to this. Tajaranese is still a hard langauge to understand and learn, but miles easier than Galactic Common.
