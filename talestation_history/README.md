@@ -39,10 +39,17 @@ For most of the year, nothing significant happened.
 
 On August 16th, 2022, JollyStation was officially killed off [here](https://github.com/TaleStation/TaleStation/pull/2053).
 
-## TaleStation August 2022 - Present
+## TaleStation August 2022 - May 2023
 TaleStation was born on August 16th, 2022. TaleStation was an idea for a few months. The major reason for the official rebrand was concerns over people assuming JollyStation was called what it was due to narcissistic implications. 
 
 TaleStation had a proper reform, which is still undergoing to fulfill their purpose; to become a RP SS13 server that everyone can enjoy, with little involvement from mechanics.
+
+On May 4th 2023, hosts were officially swapped. Patchy was removed from being the host, whilist ZephyrTFA became the new host.
+
+## TaleStation May 2023 - Present
+TaleStation is still thriving and is stronger than ever.
+
+The mirror bot is still, unfortunately, a piece of hot garbage.
 
 ## Old JollyStation and "Old" JollyStation
 Old JollyStation was killed off on August 16th, 2022. This was the continuation of ideas that Jolly had. TaleStation is a /TG/ downstream.
