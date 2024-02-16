@@ -3,6 +3,7 @@ TaleStation's conception was originally on January 19th, 2021. TaleStation was o
 
 ## JollyStation Preface
 JollyStation was originally a server hosted about once a week, and included a tight restriction on jobs and roles.
+The server was hosted by Jolly.
 
 Command was dominated by the following characters,
 - Captain - Gah-Jeelius
@@ -18,6 +19,9 @@ Command was dominated by the following characters,
 Command was heavily regulated, and players were expected to play certain jobs. Deviation always caused some strife and issues, even more so with the command regulation, but most respected the decision, sometimes "lending" the role to others if they were to be absent.
 
 Lore was also somewhat inconsistent, but there was a central plot forming that never got to take off officially. Any important or funny lore events were document on the **Lore Timeline**. Users were also asked to add to the **Crew Manifest**, a formatted Google Doc to give their characters more of a face and background.
+
+<details>
+<summary> JollyStation January 2021 - August 2022</summary>
 
 ## JollyStation Jan 2021 - June 2021
 The original JollyStation has been lost to time, since the original repository was Jolly's TG fork. However, the commit history has been archived [here](https://github.com/TaleStation/JollyStation-Commit-Archive).
@@ -39,6 +43,19 @@ For most of the year, nothing significant happened.
 
 On August 16th, 2022, JollyStation was officially killed off [here](https://github.com/TaleStation/TaleStation/pull/2053).
 
+## Old JollyStation and "Old" JollyStation
+Old JollyStation was killed off on August 16th, 2022. This was the continuation of ideas that Jolly had. TaleStation is a /TG/ downstream.
+
+"Old" JollyStation is still running, which is now called MapleStation. MapleStation is the sister server to TaleStation. MapleStation is a /TG/ fork as of Feb 2022.
+
+TaleStation and MapleStation have no direct interactions or relationships, but share the common conception.
+
+
+</details>
+
+<details>
+<summary> TaleStation August 2022 - Present</summary>
+
 ## TaleStation August 2022 - May 2023
 TaleStation was born on August 16th, 2022. TaleStation was an idea for a few months. The major reason for the official rebrand was concerns over people assuming JollyStation was called what it was due to narcissistic implications. 
 
@@ -46,14 +63,12 @@ TaleStation had a proper reform, which is still undergoing to fulfill their purp
 
 On May 4th 2023, hosts were officially swapped. Patchy was removed from being the host, whilist ZephyrTFA became the new host.
 
-## TaleStation May 2023 - Present
+## TaleStation May 2023 - February 2024
 TaleStation is still thriving and is stronger than ever.
 
 The mirror bot is still, unfortunately, a piece of hot garbage.
 
-## Old JollyStation and "Old" JollyStation
-Old JollyStation was killed off on August 16th, 2022. This was the continuation of ideas that Jolly had. TaleStation is a /TG/ downstream.
+## TaleStation February 2024
+TaleStation has officially hard forked off of /tg/station, disabling their mirror bot for the final time.
 
-"Old" JollyStation is still running, which is now called MapleStation. MapleStation is the sister server to TaleStation. MapleStation is a /TG/ fork as of Feb 2022.
-
-TaleStation and MapleStation have no direct interactions or relationships, but share the common conception.
+</details>
